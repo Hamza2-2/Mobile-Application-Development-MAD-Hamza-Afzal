@@ -13,6 +13,8 @@
 
 Welcome to the Flutter Introduction App! 🚀 This is a simple Flutter application designed to display an introduction with styled text and an icon.
 
+**Note:** The main application Code is located in main.dart file in lib folder
+
 🎯 **Features**
 
 📌 White Background for a clean and minimalistic look.
