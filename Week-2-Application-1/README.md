@@ -50,6 +50,7 @@ Ensure you have the following installed before running the project:
 
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/432ef563-eb1c-4adb-b633-a3781507af2a)
-![image](https://github.com/user-attachments/assets/bb6ee5cb-06a7-46e8-983a-eea6fb3e58df)
+![image](https://github.com/user-attachments/assets/ce9094ea-6b68-40ba-bc15-5d58aed5636d)
+
+![image](https://github.com/user-attachments/assets/840a03b4-fab9-4202-89dc-f4245b64f6f7)
 
