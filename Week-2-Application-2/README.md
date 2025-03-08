@@ -29,8 +29,10 @@ Ensure you have the following installed before running the project:
 
 ## Project Structure
 ├── assets
+
 │   ├── twitter_logo.png 
 ├── lib
+
 │   ├── main.dart        
 ├── pubspec.yaml         
 └── README.md            
