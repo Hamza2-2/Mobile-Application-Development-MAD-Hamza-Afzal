@@ -5,7 +5,7 @@
 
 **Class/Section:** 6-B
 
-**Course:** Mobile Application Development
+**Course:** Mobile Application Development-Lab
 
 **Department:** BS(CS)
 
