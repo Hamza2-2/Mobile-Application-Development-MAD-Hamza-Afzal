@@ -9,12 +9,12 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       
-      home: SplashScreen(),
+      home: tscreen(),
     );
   }
 }
 
-class SplashScreen extends StatelessWidget {
+class tscreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
