@@ -59,7 +59,7 @@ class _ScoreBoardState extends State<ScoreBoard> {
         children: [
           Row(
             children: [
-              // Team A Column
+              
               Expanded(
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
@@ -80,7 +80,7 @@ class _ScoreBoardState extends State<ScoreBoard> {
                 ),
               ),
               Container(width: 2, height: 250, color: Colors.black12),
-              // Team B Column
+              
               Expanded(
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
