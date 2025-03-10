@@ -42,4 +42,5 @@ Open the app.
 The Twitter logo will be displayed on a blue screen.
 
 ## Screenshots
-![Screenshot 2025-03-08 075102](https://github.com/user-attachments/assets/b5117528-f993-42b2-b0c0-1f5ba8f5b41d)
+![image](https://github.com/user-attachments/assets/4456c120-818a-4069-bb53-bac8b1cef013)
+
