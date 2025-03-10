@@ -23,8 +23,7 @@ class FBScreen extends StatelessWidget {
         child: Image.asset(
           'assets/facebook_logo.png',
           fit: BoxFit.cover,
-          width: double.infinity,
-          height: double.infinity,
+         
         ),
       ),
     );
