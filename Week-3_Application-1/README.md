@@ -1,6 +1,6 @@
-# Week-3
+# Week-3-Application-1
 
-# Dice Roller App
+# Dice Roller Application - Flutter
 
 ## Overview
 A simple Flutter app that simulates a dice roll, displaying a random dice face on button press. The app is designed for a Ludo-style game experience.
