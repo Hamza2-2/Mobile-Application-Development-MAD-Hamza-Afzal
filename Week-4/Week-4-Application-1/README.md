@@ -10,7 +10,6 @@ A simple Flutter app that displays a list of contacts using a Card-based UI. The
 - Displays a list of contacts in a structured UI.
 - Each contact is displayed inside a Card widget.
 - Uses ListView for efficient rendering of multiple contacts.
-- Custom styling with a blue-grey theme.
 - AppBar with a clean UI matching the provided reference image.
 
 
