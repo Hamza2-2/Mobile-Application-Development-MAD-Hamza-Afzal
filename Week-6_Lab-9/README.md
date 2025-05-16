@@ -1,12 +1,14 @@
-# Animation Application - Flutter
+# User Input Handling and Forms Application - Flutter
 
 ## Overview
-A Flutter app that implements animation and gestures for an interactive UI. It starts with a splash screen that displays logo and navigates to next screen after a time period. The main screen shows Food Items that include their image, their name, description and an animtion based heart like button. 
+This Flutter application implements animation and gesture-based UI interactions. The app starts with a splash screen that displays a logo for a fixed time and then navigates to the registration screen. After successful registration, the user proceeds to a login screen. Form fields are validated manually, and animation-based transitions enhance user experience.
 
 ## Features
 
-- Timer based logo splash screen
-- Animation based interactive Heart Like Button
+- Timer-based splash screen with logo display
+- Manual form validation for registration and login
+- Navigation between screens without replacement
+- Interactive UI elements with Flutter animations
 
 ## Requirements
 Ensure you have the following installed before running the project:
@@ -27,6 +29,7 @@ Ensure you have the following installed before running the project:
 
 
 ## Project Structure
+├── assets
 ├── lib
 
 │   ├── main.dart        
@@ -41,10 +44,11 @@ Ensure you have the following installed before running the project:
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/58888673-6e98-421b-8b6b-cd5a066a97dc)
-![image](https://github.com/user-attachments/assets/191b576c-a446-4da0-8407-2822dea4476d)
-![image](https://github.com/user-attachments/assets/b94f1647-5eba-4f81-aee9-4ff03b7342be)
-![image](https://github.com/user-attachments/assets/1cd4d3cc-c20d-4553-a7dc-5075831cad14)
+![image](https://github.com/user-attachments/assets/d144f30d-3a88-4035-90ff-bad9ff458684)
+![image](https://github.com/user-attachments/assets/ebf72391-8783-4b87-aada-2b28bbc7fbbe)
+![image](https://github.com/user-attachments/assets/404f160d-4cca-4155-9a91-19a1e0615ff0)
+
+
 
 
 
