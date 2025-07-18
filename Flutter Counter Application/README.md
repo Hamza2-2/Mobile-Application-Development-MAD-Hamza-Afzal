@@ -1,4 +1,4 @@
-# Flutter Demo App
+# Flutter Counter App
 
 ## Overview
 This is a simple Flutter application that demonstrates the use of stateful widgets, incrementing a counter on button press, and applying custom themes. The app consists of a single screen with a counter that increases each time the floating action button is pressed.
