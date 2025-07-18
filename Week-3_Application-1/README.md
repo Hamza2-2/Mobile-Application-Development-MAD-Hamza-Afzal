@@ -1,5 +1,3 @@
-# Week-3-Application-1
-
 # Dice Roller Application - Flutter
 
 ## Overview
