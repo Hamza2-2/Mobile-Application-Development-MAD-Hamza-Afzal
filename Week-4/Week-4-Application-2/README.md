@@ -1,5 +1,3 @@
-# Week-4-Application-2
-
 # Chat Application - Flutter
 
 ## Overview
