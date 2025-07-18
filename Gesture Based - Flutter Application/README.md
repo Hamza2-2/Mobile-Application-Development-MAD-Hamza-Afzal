@@ -1,5 +1,3 @@
-# Week-5
-
 # Gesture Based Application - Flutter
 
 ## Overview
