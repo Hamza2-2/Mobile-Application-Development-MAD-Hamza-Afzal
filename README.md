@@ -3,10 +3,11 @@
 
 **Enrollment ID:** 01-134222-060
 
-**Class/Section:** 6-B
+**Institute:** Bahria University E-8, Islamabad
+
+**Degree:** BS(CS)
 
 **Course:** Mobile Application Development-Lab
 
-**Department:** BS(CS)
 
-**Submitted To:** Respected Sir, Mohsin Javed Butt
+ 
