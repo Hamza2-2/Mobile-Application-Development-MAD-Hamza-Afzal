@@ -28,7 +28,7 @@ Ensure you have the following installed before running the project:
    ```
 2. Navigate into the project directory:
    ```bash
-   cd Contacts Flutter Application
+   cd Contact Management Application - Flutter
    ```
 3. Get dependencies:
    ```bash
