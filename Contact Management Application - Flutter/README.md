@@ -28,7 +28,7 @@ Ensure you have the following installed before running the project:
    ```
 2. Navigate into the project directory:
    ```bash
-   cd midterm
+   cd Contacts Flutter Application
    ```
 3. Get dependencies:
    ```bash
@@ -113,40 +113,12 @@ Ensure you have the following installed before running the project:
 - **Validation**: Manual validation with user feedback
 - **Responsive Design**: Flexible layouts that adapt to screen sizes
 
-## Student Information
-- **Student ID**: 01-134222-060
-- **Project Type**: Contact Management Application
-- **Framework**: Flutter
-- **Language**: Dart
-
+ 
 ## Screenshots
 
-*Add screenshots of your application here showing:*
-- Main contact list screen with gradient background
-- Add contact form with modern UI
-- Contact details dialog with enhanced layout
-- Empty state screen with helpful guidance
+<img width="955" height="682" alt="image" src="https://github.com/user-attachments/assets/841df2d3-9b66-4641-a9fc-84a804cd000d" />
+<img width="1040" height="751" alt="image" src="https://github.com/user-attachments/assets/72ac763f-7d3b-46d0-8736-0540fa164b62" />
+<img width="1050" height="757" alt="image" src="https://github.com/user-attachments/assets/7e4688e1-4a0c-4e44-bb39-ea5fc664e436" />
 
-## Future Enhancements
-
-- **Search Functionality**: Search through contacts by name or number
-- **Contact Editing**: Edit existing contact information
-- **Contact Deletion**: Remove contacts from the list with confirmation
-- **Data Persistence**: Save contacts to local storage or database
-- **Contact Categories**: Organize contacts by groups or favorites
-- **Call Integration**: Direct calling functionality through platform channels
-- **Export/Import**: Backup and restore contacts to/from files
-- **Contact Photos**: Add profile pictures for contacts
-- **Dark Mode**: Theme switching for better user experience
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is created for educational purposes as part of a Flutter development course.
+ 
+ 
