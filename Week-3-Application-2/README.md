@@ -1,5 +1,3 @@
-# Week-3-Application-2
-
 # Personal Introduction Application - Flutter
 
 ## Overview
