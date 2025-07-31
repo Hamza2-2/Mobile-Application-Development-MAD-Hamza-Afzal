@@ -7,7 +7,6 @@
 
 **Degree:** BS(CS)
 
-**Course:** Mobile Application Development-Lab
-
+ 
 
  
